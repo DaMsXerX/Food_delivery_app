@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "D:\\FLUTTER\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\ACER\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "D:\\flutter_projects\\foodking\\FoodKing v3.2 Nulled\\FoodKing v3.2 Nulled\\source-code\\app\\foodking-customer-app\\foodking-customer-app\\android\\app\\.cxx\\RelWithDebInfo\\1y135j56\\armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\ACER\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "D:\\flutter_projects\\foodking\\FoodKing v3.2 Nulled\\FoodKing v3.2 Nulled\\source-code\\app\\foodking-customer-app\\foodking-customer-app\\android\\app\\.cxx\\RelWithDebInfo\\1y135j56\\armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

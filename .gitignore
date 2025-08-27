@@ -1,0 +1,24 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+flutter_export_environment.sh
+
+# IntelliJ / VSCode
+.idea/
+.vscode/
+*.iml
+
+# Android
+*.keystore
+*.jks
+android/app/google-services.json
+
+# iOS
+Pods/
+DerivedData/
+
+# Keys
+key/
