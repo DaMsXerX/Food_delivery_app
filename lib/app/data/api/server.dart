@@ -1,4 +1,4 @@
-// ignore_for_file: depend_on_referenced_packages, prefer_collection_literals, prefer_typing_uninitialized_variables, avoid_print
+
 
 import 'dart:io';
 
