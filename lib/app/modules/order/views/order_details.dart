@@ -1664,3 +1664,4 @@ Widget orderDetailsVariationSection(int i) {
     ),
   );
 }
+// new optimizations soon
