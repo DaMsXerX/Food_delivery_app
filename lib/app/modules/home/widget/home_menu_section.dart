@@ -146,3 +146,4 @@ Widget homeMenuSection() {
     ),
   );
 }
+// new features will be added soon
